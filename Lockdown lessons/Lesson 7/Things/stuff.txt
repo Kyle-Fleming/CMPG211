@@ -1,0 +1,8 @@
+C Red 23
+R Green 20 15
+C Yellow 45
+S Blue 15
+R Blue 15 10
+C Cyan 18
+C Magenta 28
+R Red 25 20

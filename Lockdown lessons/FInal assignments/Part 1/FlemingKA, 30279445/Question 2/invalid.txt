@@ -1,0 +1,8 @@
+Profesional*95826*Jonathan Harker*8*34
+Profesional*91Sept29*Hawkey Pierce*13*65
+Profesional*840725*James Ford*12*56
+Profesional*86Ap28*Ilsa Lund*18*75
+Amateur*02Dec06*Tom Sawyer*2
+Amateur*04725*John Locke*1
+Amateur*080517*Maxwell Klinger*1
+Amateur*99Mh12*Dorian Gray*2

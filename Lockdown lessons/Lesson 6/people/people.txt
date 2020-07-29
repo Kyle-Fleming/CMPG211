@@ -1,0 +1,10 @@
+12345679 Tom,D,Sawyer tds@ourmail.com Whitewash Street 123,St Petersburg
+42345677 Prof,V,Able pva@mail.com High Street 23,Unitown
+42776562 James,F,Sawyer jfs@mail.com Fords Way 29,Jasper
+35865679 Jonathan,,Harker jh@mail.com Borgo Pass 95, Exeter
+33876576 Mina,M,Harker mmh@mail.com Witby Road 46, Exeter 
+24676578 Quincy,,Harker qh@mail.com Unires 54, Unitown
+26456575 Katherine,K,Harker kkh@mail.com Riley Street 79, North City
+36545678 Dorian,,Gray dg@mail.com Basil Way 47, Hallward
+33455678 Violet,,Gray vg@mail.com Peanut Place 50, Toontown
+23455675 Clay,,Quartermain cq@mail.com Hughes Street 5, Jonesville

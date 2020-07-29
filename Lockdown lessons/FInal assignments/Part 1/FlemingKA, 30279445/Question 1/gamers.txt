@@ -1,0 +1,12 @@
+Amateur*021206*Tom Sawyer*2
+Amateur*921116*Frank N Furter*3
+Professional*840725*James Ford*12*56
+Professional*950826*Jonathan Harker*8*34
+Professional*910929*Hawkey Pierce*13*65
+Amateur*951211*Rick Blaine*3
+Professional*930815*Mina Harker*11*45
+Amateur*040725*John Locke*1
+Professional*860428*Ilsa Lund*18*75
+Amateur*990412*Dorian Gray*2
+Amateur*030517*Maxwell Klinger*1
+Professional*990515*Allan Quatermain*4*25
